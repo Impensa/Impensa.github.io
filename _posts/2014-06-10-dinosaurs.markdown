@@ -4,7 +4,7 @@ title:      "Tearing Down and Building New"
 
 date:       2015-06-05 12:00:00
 author:     "Josh Kingston"
-header-img: 
+comments: true
 ---
 As a financial analyst, we spend our entire time taking things apart and breaking them down into pieces. Building this blog and KC's parent website was an exercise in the exact opposite and a refreshing, creative change at creating something new. 
 
