@@ -5,9 +5,10 @@ email: jkingston@kingstoncarnegie.com
 description: "A value investing blog"
 baseurl: ""
 url: "blog.kingstoncarnegie.com"
-twitter_username: SBootstrap
+twitter_username: 
 github_username:  Impensa
 facebook_username:  josh.kingston.14
+linkedin_username: joshkingston
 
 # Build settings
 markdown: kramdown
