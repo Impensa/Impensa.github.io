@@ -1,7 +1,6 @@
 ---
 layout:     post
 title:      "Tearing Down and Building New"
-
 date:       2015-06-05 12:00:00
 author:     "Josh Kingston"
 comments: true
