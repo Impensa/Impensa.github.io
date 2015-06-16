@@ -52,7 +52,9 @@ layout: default
             <div class="share-page">
                 <ul class="list-inline">
                 Share this: <br>
-                <li><a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}&via={{ site.twitter_username }}&related={{ site.twitter_username }}" rel="nofollow" target="_blank" title="Share on Twitter">
+                <li><a href="https://twitter.com/intent/tweet?text={{ page.title }}%20via%20@{{ site.twitter_username }}&url={{ site.url }}{{ page.url }}">
+
+                <!--{{ page.title }}&url={{ site.url }}{{ page.url }}&via={{ site.twitter_username }}&related={{ site.twitter_username }}" rel="nofollow" target="_blank" title="Share on Twitter"-->
                     <span class="fa-stack fa-lg">
                         <i class="fa fa-square fa-stack-2x"></i>
                         <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
@@ -76,6 +78,21 @@ layout: default
                         <i class="fa fa-google fa-stack-1x fa-inverse"></i>
                     </span>
                 </a></li>
+                <!-- AddToAny BEGIN -->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<a class="a2a_dd" href="https://www.addtoany.com/share_save"></a>
+<a class="a2a_button_facebook"></a>
+<a class="a2a_button_twitter"></a>
+<a class="a2a_button_google_plus"></a>
+<a class="a2a_button_linkedin"></a>
+</div>
+<script type="text/javascript" src="//static.addtoany.com/menu/page.js"></script>
+<!-- AddToAny END -->
+
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-557fc3421991aafd" async="async"></script>
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div class="addthis_sharing_toolbox"></div>
             </div>
         </div>
     </div>
