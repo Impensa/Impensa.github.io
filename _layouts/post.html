@@ -40,7 +40,7 @@ layout: default
                         <a href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}">Next Post &rarr;</a>
                     </li>
                     {% endif %}
-                </ul>
+                </ul><br>
 
             </div>
         </div>
@@ -49,9 +49,9 @@ layout: default
 <div class="container">
     <div class="row">
         <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+            Share this: <br>
             <div class="share-page">
                 <ul class="list-inline">
-                Share this: <br>
                 <li><a href="https://twitter.com/intent/tweet?text={{ page.title }}%20via%20@{{ site.twitter_username }}&url={{ site.url }}{{ page.url }}">
 
                 <!--{{ page.title }}&url={{ site.url }}{{ page.url }}&via={{ site.twitter_username }}&related={{ site.twitter_username }}" rel="nofollow" target="_blank" title="Share on Twitter"-->

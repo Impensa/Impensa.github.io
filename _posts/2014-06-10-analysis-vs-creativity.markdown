@@ -4,6 +4,7 @@ title:      "Tearing Down and Building New"
 date:       2015-06-05 12:00:00
 author:     "Josh Kingston"
 comments: true
+
 ---
 As a financial analyst, we spend our entire time taking things apart and breaking them down into pieces. Building this blog and KC's parent website was an exercise in the exact opposite and a refreshing, creative change at creating something new. 
 
@@ -34,4 +35,8 @@ Looking back, building these two sites was a very frivolous use of my time. I wa
 </a>
 <span class="caption text-muted">To go places and do things that have never been done before – that’s what living is all about.</span> -->
 
-<!---subtitle:   "It's nice to create something for a change."-->
+<!---subtitle:   "It's nice to create something for a change."
+
+header-img: "img/BackgroundBuildNew.png"
+
+-->
