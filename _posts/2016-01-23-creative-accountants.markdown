@@ -3,7 +3,7 @@ layout:     post
 title:      "Creative Accountants"
 date:       2016-01-23 12:00:00
 author:     "Josh Kingston"
-image:		"SpotlessEarnings.png"
+image:		"KCHouse.png"
 description: "When all isn't as it seems in finance."
 comments: true
 ---
