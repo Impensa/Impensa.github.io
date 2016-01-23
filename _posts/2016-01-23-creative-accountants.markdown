@@ -3,6 +3,8 @@ layout:     post
 title:      "Creative Accountants"
 date:       2016-01-23 12:00:00
 author:     "Josh Kingston"
+image:		"SpotlessEarnings.png"
+description: "When all isn't as it seems in finance."
 comments: true
 ---
 Looking through the initial appearance of something in order to see the true underlying substance is a valuable ability. Whether you’re choosing whom to include and trust as your dearest friends, deciding to take on a business partner, or selecting a school for your child; looking past outward appearances to get closer to the truth can inform decision making. This is especially true in investing.
